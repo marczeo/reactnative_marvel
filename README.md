@@ -1,1 +1,3 @@
-# reactnative_marvel
+# Reactnative Project
+
+## Project to learn the reactive technology
